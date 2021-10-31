@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrandonSpadafora
-- 👀 I’m interested in Fintech
+- 👀 I’m interested in Fintech(and hopefully looking to move into lendingTech)
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything in Fintech
 - 📫 How to reach me ...
 
 <!---
