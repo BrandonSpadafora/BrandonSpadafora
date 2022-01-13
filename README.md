@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BrandonSpadafora
-- 👀 I’m interested in Fintech(and hopefully looking to move into lendingTech)
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything in Fintech
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any data analysis project
+- 📫 How to reach me ... brandon.spadafora01@gmail.com
 
 <!---
 BrandonSpadafora/BrandonSpadafora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
