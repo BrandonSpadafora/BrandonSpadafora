@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrandonSpadafora
 - 👀 I’m interested in data analysis and visualization
-- 🌱 I’m currently learning Python's various packages 
-- 💞️ I’m looking to collaborate on any data science project
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any data analysis/visualization projects
 - 📫 How to reach me ... brandon.spadafora01@gmail.com
 
 <!---
