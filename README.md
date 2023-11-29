@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrandonSpadafora
-- 👀 I’m interested in data science/analytics
-- 🌱 I’m currently learning PowerBI
-- 💞️ I’m looking to collaborate on any data science projects
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning how to make things that help people
+- 💞️ I’m looking to collaborate on any data analytics projects
 - 📫 How to reach me ... brandon.spadafora01@gmail.com
 
 <!---
